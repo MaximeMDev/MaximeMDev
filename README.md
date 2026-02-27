@@ -41,9 +41,3 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximeMDev&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=777777" alt="Statistiques de Maxime" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMDev&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=777777" alt="Langages les plus utilisés" width="48%" />
-</div>
