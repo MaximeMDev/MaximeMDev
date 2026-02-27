@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Salut+!+Je+suis+Maxime+👋;Etudiant+%40+Web%40cademy+Epitech;Developpeur+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Bienvenue+sur+mon+GitHub+👋;Etudiant+%40+Web%40cademy+Epitech;Developpeur+Web)](https://git.io/typing-svg)
 
 **Étudiant à la Web@cademy d'Epitech Lille | Développeur Web**
 
@@ -39,5 +39,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
 
